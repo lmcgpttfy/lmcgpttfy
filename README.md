@@ -11,6 +11,7 @@
 1. Install rails 7.0.5 by running `gem install rails`. This should install the most up-to-date version of rails on your system.
 1. Clone this repo.
 1. Run `bundle install` to install Rails dependencies.
+1. Run `rails db:create`
 1. ...
 
 # Development

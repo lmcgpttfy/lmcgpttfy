@@ -14,7 +14,12 @@
 1. ...
 
 # Development
+_(see images at bottom for file structure)_
 - `package.json` is in the root directory
 - React components, packs, routes, etc. will go in `app/javascript`
 - Sylesheets and other styling assets will go in `app/assets`
 - To start the server, run `bin/dev`
+
+<img width="450" alt="Screenshot 2023-06-03 at 12 59 23 PM" src="https://github.com/lmcgpttfy/lmcgpttfy/assets/98294995/856ced26-cf93-4b34-9aad-d8942ae3637a">
+<img width="301" alt="Screenshot 2023-06-03 at 1 01 41 PM" src="https://github.com/lmcgpttfy/lmcgpttfy/assets/98294995/d949dcb0-7537-4b4c-962d-08a112595fef">
+<img width="319" alt="Screenshot 2023-06-03 at 1 00 41 PM" src="https://github.com/lmcgpttfy/lmcgpttfy/assets/98294995/7f31ce75-dbda-4821-acf6-ae9738d62457">

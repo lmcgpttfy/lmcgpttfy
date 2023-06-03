@@ -1,24 +1,14 @@
-# README
+# STACK
+- Ruby 3.2.2
+- Rails 7.0.5
+- Postgres 14
+- Bootstrap CSS
+- ...
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Setup
+1. Make sure you have ruby 3.2.2 installed by running `ruby -v`. You should see output similar to the following: `ruby 3.2.2 (2023-03-30 revision e51014f9c0) [arm64-darwin22]`
+1. Make sure you have Redis installed by running `which redis`. Install it with `brew install redis` if it is not found.
+1. Install rails 7.0.5 by running `gem install rails`. This should install the most up-to-date version of rails on your system.
+1. Clone this repo.
+1. Run `bundle install` to install Rails dependencies.
+1. ...

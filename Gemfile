@@ -46,6 +46,9 @@ gem "bootsnap", require: false
 # omniauth support
 gem "omniauth-google-oauth2"
 
+# OpenAPI support
+gem "ruby-openai"
+
 # Use Figaro to manage environment variables
 gem "figaro", git: "git@github.com:lmcgpttfy/figaro.git", branch: "main"
 

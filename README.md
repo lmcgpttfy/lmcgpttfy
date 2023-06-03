@@ -1,4 +1,4 @@
-# STACK
+# Stack
 - Ruby 3.2.2
 - Rails 7.0.5
 - Postgres 14
@@ -12,3 +12,9 @@
 1. Clone this repo.
 1. Run `bundle install` to install Rails dependencies.
 1. ...
+
+# Development
+- `package.json` is in the root directory
+- React components, packs, routes, etc. will go in `app/javascript`
+- Sylesheets and other styling assets will go in `app/assets`
+- To start the server, run `bin/dev`

@@ -47,7 +47,7 @@ gem "bootsnap", require: false
 gem "omniauth-google-oauth2"
 
 # Use Figaro to manage environment variables
-gem "figaro"
+gem "figaro", git: "git@github.com:lmcgpttfy/figaro.git", branch: "main"
 
 # Use Faraday to make HTTP requests
 gem "faraday"
